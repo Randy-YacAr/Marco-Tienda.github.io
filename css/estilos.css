@@ -65,7 +65,7 @@ img {
 }
 .logo {
     font-size: 25px;
-    color: #9BCE21;
+    color: #44ce21;
     text-transform: uppercase;
     font-weight: 800;
 }
@@ -81,7 +81,7 @@ img {
     display: block;
 }
 .menu .navbar ul li a:hover {
-    color: #9BCE21;
+    color: #21c8ce;
  }
 
  #menu {
@@ -136,7 +136,7 @@ th, td {
     margin-right: 25px;
 }
 span {
-    color: #9BCE21;
+    color: #21a6ce;
     font-size: 17px;
     font-weight: 600;
     display: block;
@@ -159,7 +159,7 @@ margin-bottom: 35px;
 .btn-1 {
         display: inline-block;
         padding: 13px 25px;
-        background-color: #9BCE21;
+        background-color: #219dce;
         margin-right: 20px;
         color: #FFFFFF;
         text-transform: capitalize;
@@ -191,7 +191,7 @@ margin-bottom: 35px;
     background-color: #FA9824;
     }
  .b3{
-        background-color: #9BCE21;
+        background-color: #21bace;
  }
  .ofert-txt {
     flex-basis: 50%;
@@ -221,7 +221,7 @@ h2 {
     gap: 20px;
 }
 .box {
-    border-top: 2px solid #9BCE21;
+    border-top: 2px solid #21cec0;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
@@ -248,16 +248,16 @@ margin-bottom: 10px;
 }
 .product-txt p {
 margin-bottom: 25px;
-color: #515557;
+color: #cfcd32;
 }
 .precio {
 font-size: 17px;
 font-weight: 700;
-color: #FF9100 !important;;
+color: #33cf55 !important;;
 }
 
 .btn-2, .btn-3 {
-    background-color: #9BCE21;
+    background-color: #21a6ce;
     margin-top: 50px;
     display: inline-block;
     padding: 11px 35px;
@@ -268,7 +268,7 @@ color: #FF9100 !important;;
     box-shadow: 0 5px 10px Irgba(0, 0, 0, 0.2);
 }
 .btn-2:hover, .btn-3:hover, .btn-1:hover {
-    background-color: #13462E;
+    background-color: #9b2921;
 }
 .btn-3 {
     margin: 0;
@@ -290,7 +290,7 @@ color: #FF9100 !important;;
     text-align: left;
     background-color:
     #F6FAFB;
-    border-top: 5px solid #9BCE21;
+    border-top: 5px solid #21cec5;
 }
 .testimonial-1 img {
     width: 100px;
@@ -300,11 +300,11 @@ color: #FF9100 !important;;
     color: #111419;
  }
 .testimonial-1 p {
-        color: #515557;
+        color: #000000;
         margin-bottom: 25px;
  }
  .footer {
-    background-color: #cacc38;
+    background-color: #38bbcc;
     padding: 100px 0;
 }
 .footer-content {
@@ -322,7 +322,7 @@ color: #FF9100 !important;;
     margin-bottom: 10px;
 }
 .link a:hover {
-    color: #9BCE21;
+    color: #21bace;
  }
  @media (max-width:991px) {
     .menu {
@@ -336,7 +336,7 @@ color: #FF9100 !important;;
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #FF9000;
+        background-color: #2cca69;
         display: none;
         }
         .menu.navbar ul li {
